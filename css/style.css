@@ -1,0 +1,84 @@
+@import url('http://fonts.googleapis.com/css?family=Roboto+Condensed:700');
+
+body {
+	font-family: Roboto Condensed;
+	background-color: #c2c3be;
+}
+
+h2 {
+	font-weight: 700;
+	text-align: center;
+	font-size: 50px;
+	color: #580109;
+	padding: 20px;
+}
+
+.deco5 {
+	height: 250px;
+	background-color: #84c09e;
+	color: #84c09e;
+	font-size: 3px;
+	margin-left: 0;
+	border-radius: 5px;
+}
+
+.deco4 {
+	height: 300px;
+	background-color: #0070ab;
+	color: #0070ab;
+	font-size: 3px;
+	margin-left: 0;
+	border-radius: 5px;
+}
+
+.deco3 {
+	height: 100px;
+	background-color: #f7f3e8;
+	color: #f7f3e8;
+	font-size: 3px;
+	margin-left: 0;
+	border-bottom: 10px solid #580109;
+	border-radius: 5px;
+}
+
+.deco2 {
+	height: 175px;
+	background-color: #0070ab;
+	color: #0070ab;
+	font-size: 3px;
+	margin-left: 0;
+	border-radius: 5px;
+}
+
+.deco1 {
+	height: 250px;
+	background-color: #84c09e;
+	color: #84c09e;
+	font-size: 3px;
+	margin-left: 0;
+	border-radius: 5px;
+
+}
+
+.image {
+	width: 100%;
+	
+}
+
+.message {
+	clear: both;
+}
+
+.box {
+	background-color: #86bae1;
+	padding: 20px;
+	border-radius: 5px;
+	margin-top: 40px;
+	border: 10px solid #84c09e;
+}
+
+p {
+	padding: 20px;
+	text-align: center;
+	color: #580109;
+}
